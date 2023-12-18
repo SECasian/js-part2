@@ -7,3 +7,4 @@ if (currentCity === null) {
 
 currentCity.innerHTML = currentCityLS;
 displayCurrentWeather(currentCityLS);
+console.log("adsa");
